@@ -21,4 +21,4 @@ Luxury perfume branding
 - Promotional Product Post – Eclipse
 
 ## Preview
-![Eclipse Post](eclipse-promotional-post.png)
+![Eclipse Post](Eclipse.png)
