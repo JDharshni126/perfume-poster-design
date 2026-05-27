@@ -19,6 +19,6 @@ Luxury perfume branding
 
 ## Included Design
 - Promotional Product Post – Eclipse
-- 
+
 ## Preview
 ![Eclipse Post](eclipse-promotional-post.png)
